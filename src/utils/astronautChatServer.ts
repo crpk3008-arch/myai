@@ -1,6 +1,6 @@
 import { GoogleGenAI } from '@google/genai';
 import {
-  ExplorerReadingMode,
+  type ExplorerReadingMode,
   buildAstronautSystemInstruction,
   extractLatestUserTurnAndPriorHistory,
   sanitizeChatHistory,
