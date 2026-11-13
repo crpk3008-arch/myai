@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Relics",
+  "description": "NASA's Cosmic Relics in the Silent Void — an interactive archive exploring abandoned lunar rovers, working retroreflectors, Martian rovers, and interstellar probes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
